@@ -10,7 +10,7 @@ I evaluate and build AI systems — with a focus on identifying failure modes be
 
 | Project | Description | Stack |
 |---|---|---|
-| [Multi-Turn LLM Ethical Drift Eval](https://github.com/abhishekkumarjjha/llm-ethical-drift-evals) | Eval framework for multi-turn psychological manipulation attacks on LLMs | Python · Inspect AI · UK |
+| [Multi-Turn LLM Ethical Drift Eval](https://github.com/abhishekkumarjjha/llm-ethical-drift-evals) | Eval framework for multi-turn psychological manipulation attacks on LLMs | Python · Inspect AI · |
 | [Deal Triage Agent](https://github.com/abhishekkumarjjha/deal-triage-agent) | AI that screens CRE deals in seconds instead of days | Python · Streamlit · Claude |
 | [Agent That Knows Me](https://github.com/abhishekkumarjjha/agent-that-knows-me) | Conversational AI agent that answers questions about my background | Next.js · OpenAI · Vercel |
 | [My Interview Bot](https://github.com/abhishekkumarjjha/my-interview-bot) | AI-powered interview prep and feedback simulator | Next.js · OpenAI · Vercel |
